@@ -18,6 +18,22 @@
 
 ---
 
+## 示例截图
+
+### 首页封面
+
+![首页封面](assets/example-cover.png)
+
+### 项目卡示例 1：FinceptTerminal
+
+![FinceptTerminal 项目卡](assets/example-finceptterminal.png)
+
+### 项目卡示例 2：openai-agents-python
+
+![openai-agents-python 项目卡](assets/example-openai-agents-python.png)
+
+---
+
 ## 仓库内容
 
 - `SKILL.md`：Hermes skill 说明
